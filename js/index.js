@@ -39,7 +39,7 @@ console.log(Math.pow(j, 2));
 
 const k = +prompt('First number');
 const l = +prompt('Second number');
-console.log(b / c);
+console.log(k / l);
 
 const m = +prompt('Enter the number of minutes');
 console.log(m * 60);
